@@ -1,0 +1,20 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+	scroll-behavior: smooth;
+}
+#My_canvas{
+	border-style: solid;
+	border-color: aqua;
+	border-width: 10px;
+	background-color: lavender;
+}
+
+
